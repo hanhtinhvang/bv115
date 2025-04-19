@@ -1,4 +1,6 @@
 streamlit
-haystack[preprocessing,faiss,inference,ocr]
+transformers
+torch
 python-docx
 PyPDF2
+docx2txt
